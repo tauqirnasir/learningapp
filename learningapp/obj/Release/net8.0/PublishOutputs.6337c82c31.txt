@@ -1,0 +1,7 @@
+C:\tmp2\learningapp\bin\Release\net8.0\publish\learningapp.exe
+C:\tmp2\learningapp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\tmp2\learningapp\bin\Release\net8.0\publish\appsettings.json
+C:\tmp2\learningapp\bin\Release\net8.0\publish\learningapp.dll
+C:\tmp2\learningapp\bin\Release\net8.0\publish\learningapp.deps.json
+C:\tmp2\learningapp\bin\Release\net8.0\publish\learningapp.runtimeconfig.json
+C:\tmp2\learningapp\bin\Release\net8.0\publish\learningapp.pdb

@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "learningapp.sln",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "learningapp\\bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b9d02e48-6439-4a7e-a2a3-2464efea1c8d/resourceGroups/app-grp/providers/Microsoft.Web/sites/learningapp6534/slots/staging"
+}
